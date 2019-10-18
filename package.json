@@ -20,7 +20,7 @@
     "md5": "^2.2.1",
     "moment": "^2.20.1",
     "moment-timezone": "^0.5.26",
-    "rancher-website-theme": "https://github.com/rancherlabs/website-theme.git",
+    "rancher-website-theme": "https://github.com/qiang1981cn/website-theme.git",
     "request": "^2.87.0",
     "tingle.js": "^0.13.2"
   }
